@@ -153,3 +153,43 @@ print("4. Separate figures make it easier to inspect each pattern individually."
   - Benefit of separate figures for clearer inspection.
 
 ***
+
+### 9. Output
+
+1. Dataset has 150 rows and 5 columns (4 numeric features + species).
+2. Petal length and petal width are highly positively correlated, forming a near-linear relationship.
+3. Setosa shows smaller petal measurements and relatively larger sepal width than the other species.
+4. Separate figures make it easier to inspect each pattern (averages, sepal relations, petal relations, overall correlations) individually.
+
+***
+
+### 10. Image Outputs
+
+1. Average Measurements by Species(Bar Chart):
+
+
+   <img width="424" height="280" alt="image" src="https://github.com/user-attachments/assets/90670d06-18a0-4b8d-9143-835a70347cff" />
+
+
+2. Sepal scatter plot:
+
+   
+   <img width="568" height="424" alt="image" src="https://github.com/user-attachments/assets/3cd24c37-1d44-4787-b2ad-e051cae6a115" />
+
+   
+3. Petal scatter plot:
+
+   
+   <img width="568" height="424" alt="image" src="https://github.com/user-attachments/assets/63442047-36eb-4307-a055-27dade7fe998" />
+
+
+4. Correlation Heatmap:
+
+   
+   <img width="538" height="424" alt="image" src="https://github.com/user-attachments/assets/740a8d88-272b-47f8-892c-bd291ad508d7" />
+
+
+
+
+
+
